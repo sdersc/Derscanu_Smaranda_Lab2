@@ -15,3 +15,4 @@ namespace Derscanu_Smaranda_Lab2.Models
         public Book Book { get; set; }
     }
 }
+
