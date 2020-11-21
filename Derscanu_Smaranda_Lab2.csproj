@@ -15,4 +15,9 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="LibraryModel\LibraryModel.csproj" />
+    <ProjectReference Include="LibraryWebAPI\LibraryWebAPI.csproj" />
+  </ItemGroup>
+
 </Project>
