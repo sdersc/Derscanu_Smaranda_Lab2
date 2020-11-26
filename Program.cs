@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using Derscanu_Smaranda_Lab2.Data;
+using LibraryModel.Data;
 
 namespace Derscanu_Smaranda_Lab2
 {

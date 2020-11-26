@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Derscanu_Smaranda_Lab2.Models;
+using LibraryModel.Models;
+using LibraryModel.Data;
 
 namespace Derscanu_Smaranda_Lab2.Data
 {

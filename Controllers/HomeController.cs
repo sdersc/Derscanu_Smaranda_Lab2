@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Derscanu_Smaranda_Lab2.Models;
 using Microsoft.EntityFrameworkCore;
-using Derscanu_Smaranda_Lab2.Data;
+using LibraryModel.Data;
 using Derscanu_Smaranda_Lab2.Models.LibraryViewModels;
 
 namespace Derscanu_Smaranda_Lab2.Controllers
