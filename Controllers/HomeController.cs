@@ -14,6 +14,10 @@ namespace Derscanu_Smaranda_Lab2.Controllers
 {
     public class HomeController : Controller
     {
+        public IActionResult Chat()
+        {
+            return View();
+        }
         private readonly LibraryContext _context;
         public HomeController(LibraryContext context)
         {
